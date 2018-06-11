@@ -39,5 +39,5 @@ writing zip file build\exe.win-amd64-3.6\lib\library.zip
 The second time when I run the PowerShell *using Shift+Right Click*,  it went away!
 ### 2018/6/11
 Based on what had been done 4 days ago, the runtime0.py state the Console I/O of the algorithm, which is like below:
-![Console Output Content]("https://lh3.googleusercontent.com/s4_AjAOirYLe9iOGWTOKeiS5nXl-l-bIAkuTxeg5YJLopY8anrfNtutRgQag6mEh80250A=s170")  
+![Console Output Content](https://lh3.googleusercontent.com/s4_AjAOirYLe9iOGWTOKeiS5nXl-l-bIAkuTxeg5YJLopY8anrfNtutRgQag6mEh80250A=s170)  
 More details, see in the report.
