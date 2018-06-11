@@ -1,5 +1,13 @@
 # Data-Mining
-This is the assignment for Data Mining Project
+This is the assignment for Data Mining Project  
+## About
+#### Library
+cx_Freeze, random, time
+#### To run this exe
+Below the "build" folder, find the Apriori.exe, download with the python36.dll, and double click.
+#### Release
+version 0.2
+
 ### 2018/6/7
 Today I solved the problem about [py2exe/cx_Freeze/pyinstaller](https://stackoverflow.com/questions/41570359/how-can-i-convert-a-py-to-exe-for-python "How to genetate exe file in python stuff……"). Before solving it finally, I tried different methods and websites, they are:  
 1.[py2exe](http://www.py2exe.org/index.cgi/Tutorial "Tutorial in using py2exe to distribute an exe.")  
@@ -29,3 +37,7 @@ writing zip file build\exe.win-amd64-3.6\lib\library.zip
 执行python setup.py build程序的报错。
 ```
 The second time when I run the PowerShell *using Shift+Right Click*,  it went away!
+### 2018/6/11
+Based on what had been done 4 days ago, the runtime0.py state the Console I/O of the algorithm, which is like below:
+![Console Output Content]("https://lh3.googleusercontent.com/s4_AjAOirYLe9iOGWTOKeiS5nXl-l-bIAkuTxeg5YJLopY8anrfNtutRgQag6mEh80250A=s170")  
+More details, see in the report.
